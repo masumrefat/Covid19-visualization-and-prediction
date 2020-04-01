@@ -1,7 +1,9 @@
 # Covid19-visualization-and-prediction
 
 Data: https://github.com/CSSEGISandData/COVID-19
+
 Learn more from the WHO
+
 Learn more from the CDC
 Map Visualizations from Johns Hopkins
 Source code is on my Github </font>
